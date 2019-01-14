@@ -5,9 +5,9 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleExecutable</key>
-	<string>$(EXECUTABLE_NAME)</string>
+	<string>TuyaSmartKit</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.tuya.$(PRODUCT_NAME:rfc1034identifier)</string>
+	<string>com.tuya.tuyasmartkit</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
@@ -16,11 +16,7 @@
 	<string>FMWK</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.15.11</string>
-	<key>CFBundleSignature</key>
-	<string>????</string>
 	<key>CFBundleVersion</key>
-	<string>$(CURRENT_PROJECT_VERSION)</string>
-	<key>NSPrincipalClass</key>
-	<string></string>
+	<string>190114</string>
 </dict>
 </plist>
